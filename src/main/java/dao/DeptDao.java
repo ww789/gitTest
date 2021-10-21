@@ -2,7 +2,7 @@ package dao;
 
 public class DeptDao {
     public void test2(){
-        System.out.println();
+        System.out.println(12344);
     }
 
   public void test(){
